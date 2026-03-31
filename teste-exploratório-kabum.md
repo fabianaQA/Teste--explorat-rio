@@ -1,4 +1,4 @@
-# 🔍 Exploratory Testing Findings — KaBuM!
+# 🔍 Resultados de Teste Exploratório — KaBuM!
 
 Registro de achados de uma sessão de teste exploratório conduzida no site KaBuM!.
 
